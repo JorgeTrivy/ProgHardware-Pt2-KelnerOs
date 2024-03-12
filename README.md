@@ -9,6 +9,7 @@ De forma normal, mostrará por pantalla un número determinado de veces la tecla
 Cada una de éstas opciones está separada por funciones y, para no colapsar la pantalla, al principio de cada una de éstas funciones, se llama a una otra función, 'limpiar_pantalla', la cuál, vacía la pantalla para no colapsar la propia terminal.
 
 Bibliografía:
+
 http://uin14131.blogspot.com/p/nombre-de-la-escuela-universidad.html
 https://www.cartagena99.com/recursos/alumnos/ejercicios/210428171148-Laboratorio%20Practica3.pdf
 http://arantxa.ii.uam.es/~gdrivera/labetcii/int_dos.htm
